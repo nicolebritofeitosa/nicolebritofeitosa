@@ -66,7 +66,3 @@ Busco uma oportunidade de estágio ou vaga júnior, onde eu possa aplicar meus c
 ⭐ Obrigada por visitar meu perfil!
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolebritofeitosa)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolebritofeitosa)](https://github.com/anuraghazra/github-readme-stats)
